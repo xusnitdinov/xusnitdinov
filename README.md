@@ -14,14 +14,14 @@ I am a **Frontend Developer** from Tashkent 🇺🇿. I started my coding journe
 ---
 
 ### 🌱 Current Focus
-* 🔭 **Working on:** Building real-world projects with **React.js**.
-* 📚 **Learning:** Advanced JavaScript patterns and State Management.
-* 🎯 **2026 Goal:** Become a Full Stack Developer and contribute to the Uzbekistan tech ecosystem.
+* ⚛️ **Frontend:** Mastering **React.js** to build high-performance user interfaces.
+* 🐍 **Backend:** Starting my journey with **Python** for web servers and automation.
+* 🎯 **2026 Goal:** Build a Full Stack application that solves a real problem in Tashkent.
 
 ---
 
 ### 📫 Let's Connect
-* 💼 **LinkedIn:** [Add your link here later]
-* 📧 **Email:** [Your new Gmail address]
+* 💼 **LinkedIn:** 
+* 📧 **Email:** xusnitdinov.azizbek@gmail.com
 
 ---
