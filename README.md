@@ -21,7 +21,7 @@ I am a **Frontend Developer** from Tashkent 🇺🇿. I started my coding journe
 ---
 
 ### 📫 Let's Connect
-* 💼 **LinkedIn:** 
+* 💼 **LinkedIn:** https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/
 * 📧 **Email:** xusnitdinov.azizbek@gmail.com
 
 ---
