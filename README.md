@@ -1,33 +1,33 @@
 <div align="center">
 
-# Hi, I'm Azizbek Xusnitdinov 👋
+# Hi 👋, I'm Azizbek Xusnitdinov
 ### A passionate Frontend Developer from Tashkent 🇺🇿
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=azizbek-dev&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-I started my coding journey at 14 because I'm passionate about building the next generation of web applications. I focus on creating clean, responsive, and user-friendly interfaces.
+* ⚛️ Currently mastering **React.js**
+* 🐍 Starting my journey with **Python**
+* 📫 Reach me at: **xusnitdinov.azizbek@gmail.com**
 
 </div>
 
-### 🛠 My Tech Stack
+### Languages and Tools:
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-**Tools & Backend**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-### 🌱 Current Focus
-* ⚛️ **Frontend:** Mastering **React.js** to build high-performance user interfaces.
-* 🐍 **Backend:** Starting my journey with **Python** for web servers and automation.
-* 🎯 **2026 Goal:** Build a Full Stack application that solves a real problem in Tashkent.
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
+</p>
 
 ---
 
-### 📫 Let's Connect
-* 💼 **LinkedIn:** [Azizbek Xusnitdinov](https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/)
-* 📧 **Email:** xusnitdinov.azizbek@gmail.com
+### Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Azizbek Xusnitdinov" height="30" width="40" /></a>
+</p>
