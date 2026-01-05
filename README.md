@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Azizbek Xusnitdinov
-### A passionate Frontend Developer from Tashkent 🇺🇿
+### A passionate Frontend Developer from Tashkent <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/uz.png" width="22">
 
 ![Profile views](https://komarev.com/ghpvc/?username=azizbek-dev&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -39,5 +39,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
 &nbsp;&nbsp;
-<a href="mailto:xusnitdinov.azizbek@gmail.com"><img align="center" src="https://raw.githubusercontent.com/google/material-design-icons/master/png/communication/email/materialicons/24dp/2x/baseline_email_black_24dp.png" alt="Email" height="30" width="30" style="filter: invert(1);" /></a>
+<a href="mailto:xusnitdinov.azizbek@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="25" width="30" /></a>
 </p>
