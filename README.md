@@ -20,7 +20,9 @@
 📫 Reach me at: **xusnitdinov.azizbek@gmail.com**
 
 <br>
+
 ---
+
 ### Languages and Tools:
 
 <p align="left">
