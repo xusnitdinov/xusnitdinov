@@ -1,15 +1,23 @@
-# Hi, I'm Azizbek Xusnitdinov 👋
+<div align="center">
 
-I am a **Frontend Developer** from Tashkent 🇺🇿. I started my coding journey at 14 because I'm passionate about building the next generation of web applications. I focus on creating clean, responsive, and user-friendly interfaces.
+# Hi, I'm Azizbek Xusnitdinov 👋
+### A passionate Frontend Developer from Tashkent 🇺🇿
+
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
+I started my coding journey at 14 because I'm passionate about building the next generation of web applications. I focus on creating clean, responsive, and user-friendly interfaces.
+
+</div>
+
 ### 🛠 My Tech Stack
 
-| Category | Skills |
-| --- | --- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) |
+**Frontend**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Tools & Backend**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
@@ -21,7 +29,5 @@ I am a **Frontend Developer** from Tashkent 🇺🇿. I started my coding journe
 ---
 
 ### 📫 Let's Connect
-* 💼 **LinkedIn:** https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/
+* 💼 **LinkedIn:** [Azizbek Xusnitdinov](https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/)
 * 📧 **Email:** xusnitdinov.azizbek@gmail.com
-
----
