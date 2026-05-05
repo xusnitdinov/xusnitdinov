@@ -44,4 +44,4 @@ Cloudflare Workers · D1 · Groq API · REST APIs · Vanilla JS (performance-fir
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=xusnitdinov&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=xusnitdinov&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
