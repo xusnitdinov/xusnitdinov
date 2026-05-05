@@ -4,9 +4,9 @@
 
 Full-Stack Developer · EdTech Builder · Tashkent, Uzbekistan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xusnitdinov.azizbek@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=xusnitdinov&color=0e75b6&style=flat)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xusnitdinov.azizbek@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=xusnitdinov&color=0e75b6&style=flat-square)
 
 </div>
 
@@ -22,12 +22,15 @@ I build free EdTech platforms for Uzbek students — fast, accessible, built sol
 
 **Stack**
 
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>
+</p>
 
 Cloudflare Workers · D1 · Groq API · REST APIs · Vanilla JS (performance-first)
 
@@ -42,4 +45,4 @@ Cloudflare Workers · D1 · Groq API · REST APIs · Vanilla JS (performance-fir
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=xusnitdinov&show_icons=true&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=xusnitdinov&show_icons=true&theme=dark&hide_border=true&count_private=true)
