@@ -15,8 +15,7 @@ Full-Stack Developer · EdTech Builder · Tashkent, Uzbekistan
 I build free EdTech platforms for Uzbek students — fast, accessible, built solo.
 
 - **[avazovielts.uz](https://avazovielts.uz)** — IELTS prep with AI writing feedback and practice tests
-- **[get-sat.uz](https://get-sat.uz)** — SAT preparation platform
-- **[khwarezmi-ielts.pages.dev](https://khwarezmi-ielts.pages.dev)** — IELTS prep for Al-Khwarizmi school (free lifetime pro)
+- **[khwarezmi-ielts.pages.dev](https://khwarezmi-ielts.pages.dev)** — IELTS prep for Al-Khwarizmi school 
 
 ---
 
