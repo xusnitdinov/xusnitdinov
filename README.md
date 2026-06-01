@@ -36,10 +36,10 @@ Cloudflare Workers · D1 · Groq API · REST APIs · Vanilla JS
 
 **Achievements**
 
-- WRO 2026 — Regional
-- IOAI — Regional (AI Olympiad)
-- Al-Khwarizmi CS Olympiad — Regional
-- Robocontest — City Level x5
+- WRO 2026 - Regional
+- IOAI - Regional (AI Olympiad)
+- Al-Khwarizmi CS Olympiad - Regional
+- Robocontest - City Level x5
 
 ---
 
