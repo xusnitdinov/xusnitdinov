@@ -12,9 +12,9 @@ Full-Stack Developer · EdTech Builder · Tashkent, Uzbekistan
 
 ---
 
-I build free EdTech platforms for Uzbek students — fast, accessible, built solo.
+I build free EdTech platforms for Uzbek students - fast, accessible, built solo.
 
-- **[avazovielts.uz](https://avazovielts.uz)** — IELTS prep with AI writing feedback and practice tests
+- **[avazovielts.uz](https://avazovielts.uz)** - IELTS prep with AI writing feedback and practice tests
 
 ---
 
@@ -30,7 +30,7 @@ I build free EdTech platforms for Uzbek students — fast, accessible, built sol
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>
 </p>
 
-Cloudflare Workers · D1 · Groq API · REST APIs · Vanilla JS (performance-first)
+Cloudflare Workers · D1 · Groq API · REST APIs · Vanilla JS 
 
 ---
 
