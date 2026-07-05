@@ -30,8 +30,6 @@ I build free EdTech platforms for Uzbek students - fast, accessible, built solo.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>
 </p>
 
-Cloudflare Workers · D1 · Groq API · REST APIs · Vanilla JS 
-
 ---
 
 **Achievements**
