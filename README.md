@@ -15,6 +15,7 @@ Full-Stack Developer · EdTech Builder · Tashkent, Uzbekistan
 I build free EdTech platforms for Uzbek students - fast, accessible, built solo.
 
 - **[avazovielts.uz](https://avazovielts.uz)** - IELTS prep with AI writing feedback and practice tests
+- **[xusnitdinov.pages.dev](https://xusnitdinov.pages.dev)** - Personal Portfolio
 
 ---
 
