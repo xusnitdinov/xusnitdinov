@@ -22,8 +22,7 @@ I build free EdTech platforms for Uzbek students — and developer tools that so
 - **[Avazov IELTS](https://avazovielts.uz)** — Free IELTS prep with AI writing feedback and practice tests · [code](https://github.com/xusnitdinov/avazovielts)
 - **[ResizeKit](https://resize-kit.vercel.app)** — Free image resizer for any platform · [code](https://github.com/xusnitdinov/ResizeKit)
 - **[Photo Drawer](https://photo-drawer.vercel.app)** — Upload images and draw / annotate in the browser · [code](https://github.com/xusnitdinov/image-drawing)
-- **[Word Counter](https://xusnitdinov.github.io/Word_Counter/)** — Simple character & word counter · [code](https://github.com/xusnitdinov/Word_Counter)
-- **[Portfolio](https://xusnitdinov.pages.dev)** — Personal site · [code](https://github.com/xusnitdinov/portfolio)
+- **[Portfolio](https://xusnitdinov.pages.dev)** — Personal site
 
 ---
 
