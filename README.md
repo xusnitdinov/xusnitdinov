@@ -18,14 +18,12 @@ I build free EdTech platforms for Uzbek students — and developer tools that so
 
 ### Projects
 
-| Project | What it is | Links |
-| --- | --- | --- |
-| **SlopSweep** | Scan & clean Copilot tip residue from GitHub PRs and READMEs. OAuth, org filters, AI README drafts, public PR inspect. | [Live](https://slopsweep.vercel.app) · [Repo](https://github.com/xusnitdinov/slopsweep) |
-| **Avazov IELTS** | Free IELTS prep for Uzbek students — AI writing feedback and practice tests. | [Live](https://avazovielts.uz) · [Repo](https://github.com/xusnitdinov/avazovielts) |
-| **ResizeKit** | Free image resizer for any platform. | [Live](https://resize-kit.vercel.app) · [Repo](https://github.com/xusnitdinov/ResizeKit) |
-| **Photo Drawer** | Upload images and draw / annotate in the browser. | [Live](https://photo-drawer.vercel.app) · [Repo](https://github.com/xusnitdinov/image-drawing) |
-| **Word Counter** | Simple character/word counter (50 char max demo). | [Live](https://xusnitdinov.github.io/Word_Counter/) · [Repo](https://github.com/xusnitdinov/Word_Counter) |
-| **Portfolio** | Personal site. | [Live](https://xusnitdinov.pages.dev) · [Repo](https://github.com/xusnitdinov/portfolio) |
+- **[SlopSweep](https://slopsweep.vercel.app)** — Scan & clean Copilot tip residue from GitHub PRs and READMEs · [code](https://github.com/xusnitdinov/slopsweep)
+- **[Avazov IELTS](https://avazovielts.uz)** — Free IELTS prep with AI writing feedback and practice tests · [code](https://github.com/xusnitdinov/avazovielts)
+- **[ResizeKit](https://resize-kit.vercel.app)** — Free image resizer for any platform · [code](https://github.com/xusnitdinov/ResizeKit)
+- **[Photo Drawer](https://photo-drawer.vercel.app)** — Upload images and draw / annotate in the browser · [code](https://github.com/xusnitdinov/image-drawing)
+- **[Word Counter](https://xusnitdinov.github.io/Word_Counter/)** — Simple character & word counter · [code](https://github.com/xusnitdinov/Word_Counter)
+- **[Portfolio](https://xusnitdinov.pages.dev)** — Personal site · [code](https://github.com/xusnitdinov/portfolio)
 
 ---
 
