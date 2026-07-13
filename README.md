@@ -12,17 +12,17 @@ Full-Stack Developer · EdTech Builder · Tashkent, Uzbekistan
 
 ---
 
-I build free EdTech platforms for Uzbek students — and developer tools that solve real problems. Fast, accessible, built solo.
+I build free EdTech platforms for Uzbek students - and developer tools that solve real problems. Fast, accessible, built solo.
 
 ---
 
 ### Projects
 
-- **[SlopSweep](https://slopsweep.vercel.app)** — Scan & clean Copilot tip residue from GitHub PRs and READMEs · [code](https://github.com/xusnitdinov/slopsweep)
-- **[Avazov IELTS](https://avazovielts.uz)** — Free IELTS prep with AI writing feedback and practice tests · [code](https://github.com/xusnitdinov/avazovielts)
-- **[ResizeKit](https://resize-kit.vercel.app)** — Free image resizer for any platform · [code](https://github.com/xusnitdinov/ResizeKit)
-- **[Photo Drawer](https://photo-drawer.vercel.app)** — Upload images and draw / annotate in the browser · [code](https://github.com/xusnitdinov/image-drawing)
-- **[Portfolio](https://xusnitdinov.pages.dev)** — Personal site
+- **[SlopSweep](https://slopsweep.vercel.app)** - Scan & clean Copilot tip residue from GitHub PRs and READMEs · [code](https://github.com/xusnitdinov/slopsweep)
+- **[Avazov IELTS](https://avazovielts.uz)** - Free IELTS prep with AI writing feedback and practice tests · [code](https://github.com/xusnitdinov/avazovielts)
+- **[ResizeKit](https://resize-kit.vercel.app)** - Free image resizer for any platform · [code](https://github.com/xusnitdinov/ResizeKit)
+- **[Photo Drawer](https://photo-drawer.vercel.app)** - Upload images and draw / annotate in the browser · [code](https://github.com/xusnitdinov/image-drawing)
+- **[Portfolio](https://xusnitdinov.pages.dev)** - Personal site
 
 ---
 
