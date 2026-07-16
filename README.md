@@ -16,7 +16,26 @@ I build free EdTech platforms for Uzbek students - and developer tools that solv
 
 ---
 
-### Projects
+### Featured: [Chisel](https://chisel-app.pages.dev)
+
+**200 sharp developer & PC utilities** in one browser bench - JSON, JWT, converters, GitHub helpers, dead-pixel tools, and more. Runs locally in your browser. No account required.
+
+[![Live](https://img.shields.io/badge/live-chisel--app.pages.dev-5a8f14?style=flat-square)](https://chisel-app.pages.dev)
+[![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react&logoColor=white)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Code](https://img.shields.io/badge/GitHub-xusnitdinov%2Fchisel-181717?style=flat-square&logo=github)](https://github.com/xusnitdinov/chisel)
+
+<p align="center">
+  <a href="https://chisel-app.pages.dev">
+    <img src="https://raw.githubusercontent.com/xusnitdinov/chisel/main/docs/screenshots/home-light.png" alt="Chisel - 200 Dev & PC Tools" width="900"/>
+  </a>
+</p>
+
+*Ctrl+Q palette · light/dark · favorites on-device · help on every tool · [try it live](https://chisel-app.pages.dev)*
+
+---
+
+### More projects
 
 - **[SlopSweep](https://slopsweep.vercel.app)** - Scan & clean Copilot tip residue from GitHub PRs and READMEs · [code](https://github.com/xusnitdinov/slopsweep)
 - **[Avazov IELTS](https://avazovielts.uz)** - Free IELTS prep with AI writing feedback and practice tests · [code](https://github.com/xusnitdinov/avazovielts)
