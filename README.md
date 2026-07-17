@@ -32,6 +32,14 @@ I build free EdTech platforms for Uzbek students - and developer tools that solv
 
 ---
 
+### Open source contributions
+
+- **[FableCut](https://github.com/ronak-create/FableCut)** - Merged luxury title style into the browser video editor ([#30](https://github.com/ronak-create/FableCut/pull/30))
+- **[FableCut](https://github.com/ronak-create/FableCut)** - Filter presets (sunset & midnight) · open ([#29](https://github.com/ronak-create/FableCut/pull/29))
+- **[tesseract.js](https://github.com/naptha/tesseract.js)** - Remove Open Collective postinstall script · open ([#1068](https://github.com/naptha/tesseract.js/pull/1068))
+
+---
+
 **Stack**
 
 <p align="left">
