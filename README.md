@@ -34,14 +34,18 @@ I build free EdTech platforms for Uzbek students - and developer tools that solv
 
 ### Open source contributions
 
-- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (452k stars) - Fix wording in specialized semantic elements lectures · open ([#68911](https://github.com/freeCodeCamp/freeCodeCamp/pull/68911))
-- **[tesseract.js](https://github.com/naptha/tesseract.js)** (38.5k stars) - Remove Open Collective postinstall script · open ([#1068](https://github.com/naptha/tesseract.js/pull/1068))
-- **[highlight.js](https://github.com/highlightjs/highlight.js)** (25k stars) - Highlight `self` as a JavaScript built-in global · open ([#4445](https://github.com/highlightjs/highlight.js/pull/4445))
-- **[npmx.dev](https://github.com/npmx-dev/npmx.dev)** (3.5k stars) - Quick copy for package version (button + command palette) · open ([#3056](https://github.com/npmx-dev/npmx.dev/pull/3056))
-- **[kana-dojo](https://github.com/lingdojo/kana-dojo)** (3k stars) - Add Plum Wood color theme · open ([#24904](https://github.com/lingdojo/kana-dojo/pull/24904))
-- **[FableCut](https://github.com/ronak-create/FableCut)** (466 stars) - Merged luxury title style into the browser video editor ([#30](https://github.com/ronak-create/FableCut/pull/30))
-- **[FableCut](https://github.com/ronak-create/FableCut)** (466 stars) - Filter presets (sunset & midnight) · open ([#29](https://github.com/ronak-create/FableCut/pull/29))
+**Merged (2)**
 
+- **[kana-dojo](https://github.com/lingdojo/kana-dojo)** (~3k stars) - Plum Wood color theme - **merged** ([#24904](https://github.com/lingdojo/kana-dojo/pull/24904))
+- **[FableCut](https://github.com/ronak-create/FableCut)** - Luxury title style for the browser video editor - **merged** ([#30](https://github.com/ronak-create/FableCut/pull/30))
+
+**Open**
+
+- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (452k stars) - Fix wording in specialized semantic elements lectures ([#68911](https://github.com/freeCodeCamp/freeCodeCamp/pull/68911))
+- **[tesseract.js](https://github.com/naptha/tesseract.js)** (38.5k stars) - Remove Open Collective postinstall script ([#1068](https://github.com/naptha/tesseract.js/pull/1068))
+- **[highlight.js](https://github.com/highlightjs/highlight.js)** (25k stars) - Highlight `self` as a JavaScript built-in global ([#4445](https://github.com/highlightjs/highlight.js/pull/4445))
+- **[npmx.dev](https://github.com/npmx-dev/npmx.dev)** (~3.5k stars) - Quick copy for package version ([#3056](https://github.com/npmx-dev/npmx.dev/pull/3056))
+- **[FableCut](https://github.com/ronak-create/FableCut)** - Sunset and midnight filter presets ([#29](https://github.com/ronak-create/FableCut/pull/29))
 ---
 
 **Stack**
