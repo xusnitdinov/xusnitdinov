@@ -34,9 +34,10 @@ I build free EdTech platforms for Uzbek students - and developer tools that solv
 
 ### Open source contributions
 
-- **[FableCut](https://github.com/ronak-create/FableCut)** - Merged luxury title style into the browser video editor ([#30](https://github.com/ronak-create/FableCut/pull/30))
-- **[FableCut](https://github.com/ronak-create/FableCut)** - Filter presets (sunset & midnight) · open ([#29](https://github.com/ronak-create/FableCut/pull/29))
-- **[tesseract.js](https://github.com/naptha/tesseract.js)** - Remove Open Collective postinstall script · open ([#1068](https://github.com/naptha/tesseract.js/pull/1068))
+- **[tesseract.js](https://github.com/naptha/tesseract.js)** (38.5k stars) - Remove Open Collective postinstall script · open ([#1068](https://github.com/naptha/tesseract.js/pull/1068))
+- **[highlight.js](https://github.com/highlightjs/highlight.js)** (25k stars) - Highlight `self` as a JavaScript built-in global · open ([#4445](https://github.com/highlightjs/highlight.js/pull/4445))
+- **[FableCut](https://github.com/ronak-create/FableCut)** (466 stars) - Merged luxury title style into the browser video editor ([#30](https://github.com/ronak-create/FableCut/pull/30))
+- **[FableCut](https://github.com/ronak-create/FableCut)** (466 stars) - Filter presets (sunset & midnight) · open ([#29](https://github.com/ronak-create/FableCut/pull/29))
 
 ---
 
