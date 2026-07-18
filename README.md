@@ -34,18 +34,20 @@ I build free EdTech platforms for Uzbek students - and developer tools that solv
 
 ### Open source contributions
 
-**Merged (2)**
+**Merged (4)**
 
-- **[kana-dojo](https://github.com/lingdojo/kana-dojo)** (~3k stars) - Plum Wood color theme - **merged** ([#24904](https://github.com/lingdojo/kana-dojo/pull/24904))
-- **[FableCut](https://github.com/ronak-create/FableCut)** - Luxury title style for the browser video editor - **merged** ([#30](https://github.com/ronak-create/FableCut/pull/30))
+- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (452k+ stars) - Corrected wording in specialized semantic elements lectures - **merged** ([#68911](https://github.com/freeCodeCamp/freeCodeCamp/pull/68911))
+- **[kana-dojo](https://github.com/lingdojo/kana-dojo)** (~3k stars) - Added the Plum Wood color theme - **merged** ([#24904](https://github.com/lingdojo/kana-dojo/pull/24904))
+- **[FableCut](https://github.com/ronak-create/FableCut)** - Added sunset and midnight filter presets - **merged** ([#29](https://github.com/ronak-create/FableCut/pull/29))
+- **[FableCut](https://github.com/ronak-create/FableCut)** - Added a luxury title style for the browser video editor - **merged** ([#30](https://github.com/ronak-create/FableCut/pull/30))
 
 **Open**
 
-- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (452k stars) - Fix wording in specialized semantic elements lectures ([#68911](https://github.com/freeCodeCamp/freeCodeCamp/pull/68911))
+- **[Docusaurus](https://github.com/facebook/docusaurus)** (~65k stars) - Fix Firefox clipping sidebar label descenders ([#12300](https://github.com/facebook/docusaurus/pull/12300))
 - **[tesseract.js](https://github.com/naptha/tesseract.js)** (38.5k stars) - Remove Open Collective postinstall script ([#1068](https://github.com/naptha/tesseract.js/pull/1068))
 - **[highlight.js](https://github.com/highlightjs/highlight.js)** (25k stars) - Highlight `self` as a JavaScript built-in global ([#4445](https://github.com/highlightjs/highlight.js/pull/4445))
-- **[npmx.dev](https://github.com/npmx-dev/npmx.dev)** (~3.5k stars) - Quick copy for package version ([#3056](https://github.com/npmx-dev/npmx.dev/pull/3056))
-- **[FableCut](https://github.com/ronak-create/FableCut)** - Sunset and midnight filter presets ([#29](https://github.com/ronak-create/FableCut/pull/29))
+- **[code-charity/youtube](https://github.com/code-charity/youtube)** (~4.5k stars) - Show persistent playback speed between speed buttons ([#4211](https://github.com/code-charity/youtube/pull/4211))
+- **[npmx.dev](https://github.com/npmx-dev/npmx.dev)** (~3.5k stars) - Add quick copy for package versions ([#3056](https://github.com/npmx-dev/npmx.dev/pull/3056))
 ---
 
 **Stack**
