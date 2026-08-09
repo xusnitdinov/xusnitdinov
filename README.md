@@ -16,14 +16,15 @@ I build free EdTech platforms for Uzbek students - and developer tools that solv
 
 ---
 
-### Featured: [Chisel](https://chisel-app.pages.dev)
+### Featured: [uzbek-humanizer](https://github.com/xusnitdinov/uzbek-humanizer)
 
-200 sharp developer & PC utilities in one browser bench · [live demo](https://chisel-app.pages.dev) · [source](https://github.com/xusnitdinov/chisel)
+Agent Skill that makes AI sound like it actually speaks Uzbek · [source](https://github.com/xusnitdinov/uzbek-humanizer) · [install](https://github.com/xusnitdinov/uzbek-humanizer#install-in-10-seconds)
 
 ---
 
 ### More projects
 
+- **[Chisel](https://chisel-app.pages.dev)** - 200 sharp developer & PC utilities in one browser bench · [code](https://github.com/xusnitdinov/chisel)
 - **[SlopSweep](https://slopsweep.vercel.app)** - Scan & clean Copilot tip residue from GitHub PRs and READMEs · [code](https://github.com/xusnitdinov/slopsweep)
 - **[Avazov IELTS](https://avazovielts.uz)** - Free IELTS prep with AI writing feedback and practice tests · [code](https://github.com/xusnitdinov/avazovielts)
 - **[ResizeKit](https://resize-kit.vercel.app)** - Free image resizer for any platform · [code](https://github.com/xusnitdinov/ResizeKit)
