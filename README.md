@@ -74,3 +74,4 @@ Agent Skill that makes AI sound like it actually speaks Uzbek · [source](https:
 - Al-Khwarizmi CS Olympiad - Regional
 - Robocontest - City Level x5
 - IELTS 7.0
+- Five Million AI Developers Certificate holder
