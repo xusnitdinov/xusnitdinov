@@ -27,8 +27,6 @@ I ship free EdTech for Uzbek students and sharp little tools for the web. Solo b
 <td width="50%" valign="top">
 
 #### [uzbek-humanizer](https://github.com/xusnitdinov/uzbek-humanizer)
-<img src="https://img.shields.io/github/stars/xusnitdinov/uzbek-humanizer?style=flat-square&color=0d9488" alt="stars"/>
-<img src="https://img.shields.io/github/last-commit/xusnitdinov/uzbek-humanizer?style=flat-square&color=334155" alt="commit"/>
 
 Agent Skill that makes AI sound like it actually speaks Uzbek (Latin).
 
@@ -38,7 +36,6 @@ Agent Skill that makes AI sound like it actually speaks Uzbek (Latin).
 <td width="50%" valign="top">
 
 #### [Avazov IELTS](https://avazovielts.uz)
-<img src="https://img.shields.io/badge/live-avazovielts.uz-0d9488?style=flat-square" alt="live"/>
 
 Free IELTS prep for Uzbek students - practice tests + AI writing feedback.
 
@@ -99,18 +96,23 @@ Free IELTS prep for Uzbek students - practice tests + AI writing feedback.
 ### Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xusnitdinov&show_icons=true&theme=transparent&hide_border=true&title_color=0d9488&icon_color=0ea5a0&text_color=94a3b8&ring_color=0d9488" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xusnitdinov&layout=compact&theme=transparent&hide_border=true&title_color=0d9488&text_color=94a3b8" alt="languages" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=xusnitdinov&show_icons=true&theme=transparent&hide_border=true&title_color=0d9488&icon_color=0ea5a0&text_color=94a3b8&ring_color=0d9488" alt="stats" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=xusnitdinov&layout=compact&theme=transparent&hide_border=true&title_color=0d9488&text_color=94a3b8" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xusnitdinov&theme=transparent&hide_border=true&ring=0d9488&fire=0ea5a0&currStreakLabel=0d9488" alt="streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=xusnitdinov&theme=transparent&hide_border=true&ring=0d9488&fire=0ea5a0&currStreakLabel=0d9488" alt="streak" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/xusnitdinov/xusnitdinov/main/assets/snake.svg" alt="snake" />
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xusnitdinov/xusnitdinov/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/xusnitdinov/xusnitdinov/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
