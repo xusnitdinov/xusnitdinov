@@ -3,8 +3,6 @@
 <!-- typing intro -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=0EA5A0&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=80&lines=Azizbek+Xusnitdinov;EdTech+builder+from+Tashkent;Shipping+tools+for+students)](https://xusnitdinov.pages.dev)
 
-**15 · Full-stack · Open source · Built in Uzbekistan**
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-xusnitdinov.pages.dev-0d9488?style=for-the-badge&logo=cloudflare&logoColor=white)](https://xusnitdinov.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/)
 [![Email](https://img.shields.io/badge/Email-Say+hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xusnitdinov.azizbek@gmail.com)
