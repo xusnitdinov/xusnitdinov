@@ -1,77 +1,137 @@
 <div align="center">
 
-# Azizbek Xusnitdinov
+<!-- typing intro -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=0EA5A0&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=80&lines=Azizbek+Xusnitdinov;EdTech+builder+from+Tashkent;Shipping+tools+for+students)](https://xusnitdinov.pages.dev)
 
-Full-Stack Developer · EdTech Builder · Tashkent, Uzbekistan
+**15 · Full-stack · Open source · Built in Uzbekistan**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xusnitdinov.azizbek@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=xusnitdinov&color=0e75b6&style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-xusnitdinov.pages.dev-0d9488?style=for-the-badge&logo=cloudflare&logoColor=white)](https://xusnitdinov.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/)
+[![Email](https://img.shields.io/badge/Email-Say+hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xusnitdinov.azizbek@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=xusnitdinov&label=Profile+views&color=0d9488&style=for-the-badge)](https://github.com/xusnitdinov)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/xusnitdinov/xusnitdinov/main/assets/wave.svg" width="100%" alt="wave"/>
 
 </div>
 
----
-
-I build free EdTech platforms for Uzbek students - and developer tools that solve real problems. Fast, accessible, built solo.
+I ship free EdTech for Uzbek students and sharp little tools for the web. Solo builds, real users, open source when it helps.
 
 ---
 
-### Featured: [uzbek-humanizer](https://github.com/xusnitdinov/uzbek-humanizer)
+### Now shipping
 
-Agent Skill that makes AI sound like it actually speaks Uzbek · [source](https://github.com/xusnitdinov/uzbek-humanizer) · [install](https://github.com/xusnitdinov/uzbek-humanizer#install-in-10-seconds)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [uzbek-humanizer](https://github.com/xusnitdinov/uzbek-humanizer)
+<img src="https://img.shields.io/github/stars/xusnitdinov/uzbek-humanizer?style=flat-square&color=0d9488" alt="stars"/>
+<img src="https://img.shields.io/github/last-commit/xusnitdinov/uzbek-humanizer?style=flat-square&color=334155" alt="commit"/>
+
+Agent Skill that makes AI sound like it actually speaks Uzbek (Latin).
+
+[Install](https://github.com/xusnitdinov/uzbek-humanizer#install-in-10-seconds) · source on GitHub
+
+</td>
+<td width="50%" valign="top">
+
+#### [Avazov IELTS](https://avazovielts.uz)
+<img src="https://img.shields.io/badge/live-avazovielts.uz-0d9488?style=flat-square" alt="live"/>
+
+Free IELTS prep for Uzbek students - practice tests + AI writing feedback.
+
+[Open site](https://avazovielts.uz) · [code](https://github.com/xusnitdinov/avazovielts)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### More projects
+### Toolbox
 
-- **[Chisel](https://chisel-app.pages.dev)** - 200 sharp developer & PC utilities in one browser bench · [code](https://github.com/xusnitdinov/chisel)
-- **[SlopSweep](https://slopsweep.vercel.app)** - Scan & clean Copilot tip residue from GitHub PRs and READMEs · [code](https://github.com/xusnitdinov/slopsweep)
-- **[Avazov IELTS](https://avazovielts.uz)** - Free IELTS prep with AI writing feedback and practice tests · [code](https://github.com/xusnitdinov/avazovielts)
-- **[ResizeKit](https://resize-kit.vercel.app)** - Free image resizer for any platform · [code](https://github.com/xusnitdinov/ResizeKit)
-- **[Photo Drawer](https://photo-drawer.vercel.app)** - Upload images and draw / annotate in the browser · [code](https://github.com/xusnitdinov/image-drawing)
-- **[Portfolio](https://xusnitdinov.pages.dev)** - Personal site
+| Project | What it is | Links |
+| :--- | :--- | :--- |
+| **Chisel** | 200+ developer & PC utilities in one browser bench | [app](https://chisel-app.pages.dev) · [code](https://github.com/xusnitdinov/chisel) |
+| **SlopSweep** | Scrub Copilot tip residue from PRs & READMEs | [app](https://slopsweep.vercel.app) · [code](https://github.com/xusnitdinov/slopsweep) |
+| **ResizeKit** | Free image resizer for any platform | [app](https://resize-kit.vercel.app) · [code](https://github.com/xusnitdinov/ResizeKit) |
+| **Photo Drawer** | Upload, draw, annotate in the browser | [app](https://photo-drawer.vercel.app) · [code](https://github.com/xusnitdinov/image-drawing) |
+| **StickySpace** | AR sticky notes for Android | [code](https://github.com/xusnitdinov/StickySpace) |
+| **Oria** | AI career guide for Uzbekistan students | [code](https://github.com/xusnitdinov/oria) |
 
 ---
 
-### Open source contributions
+### Open source
 
-**Merged (4)**
+**Merged**
 
-- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (452k+ stars) - Corrected wording in specialized semantic elements lectures - **merged** ([#68911](https://github.com/freeCodeCamp/freeCodeCamp/pull/68911))
-- **[kana-dojo](https://github.com/lingdojo/kana-dojo)** (~3k stars) - Added the Plum Wood color theme - **merged** ([#24904](https://github.com/lingdojo/kana-dojo/pull/24904))
-- **[FableCut](https://github.com/ronak-create/FableCut)** - Added sunset and midnight filter presets - **merged** ([#29](https://github.com/ronak-create/FableCut/pull/29))
-- **[FableCut](https://github.com/ronak-create/FableCut)** - Added a luxury title style for the browser video editor - **merged** ([#30](https://github.com/ronak-create/FableCut/pull/30))
+| Repo | What I shipped |
+| :--- | :--- |
+| [corsair](https://github.com/corsairdev/corsair) | a11y label for OSS GitHub username input ([#728](https://github.com/corsairdev/corsair/pull/728)) |
+| [kana-dojo](https://github.com/lingdojo/kana-dojo) | streak milestone Enter key ([#28010](https://github.com/lingdojo/kana-dojo/pull/28010)) · anime quote ([#28082](https://github.com/lingdojo/kana-dojo/pull/28082)) · Plum Wood theme ([#24904](https://github.com/lingdojo/kana-dojo/pull/24904)) |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | wording fix in semantic elements lectures ([#68911](https://github.com/freeCodeCamp/freeCodeCamp/pull/68911)) |
+| [FableCut](https://github.com/ronak-create/FableCut) | sunset / midnight filters ([#29](https://github.com/ronak-create/FableCut/pull/29)) · luxury title style ([#30](https://github.com/ronak-create/FableCut/pull/30)) |
 
-**Open**
+**In review**
 
-- **[Docusaurus](https://github.com/facebook/docusaurus)** (~65k stars) - Fix Firefox clipping sidebar label descenders ([#12300](https://github.com/facebook/docusaurus/pull/12300))
-- **[tesseract.js](https://github.com/naptha/tesseract.js)** (38.5k stars) - Remove Open Collective postinstall script ([#1068](https://github.com/naptha/tesseract.js/pull/1068))
-- **[highlight.js](https://github.com/highlightjs/highlight.js)** (25k stars) - Highlight `self` as a JavaScript built-in global ([#4445](https://github.com/highlightjs/highlight.js/pull/4445))
-- **[code-charity/youtube](https://github.com/code-charity/youtube)** (~4.5k stars) - Show persistent playback speed between speed buttons ([#4211](https://github.com/code-charity/youtube/pull/4211))
-- **[npmx.dev](https://github.com/npmx-dev/npmx.dev)** (~3.5k stars) - Add quick copy for package versions ([#3056](https://github.com/npmx-dev/npmx.dev/pull/3056))
+| Repo | PR |
+| :--- | :--- |
+| [Nextcloud](https://github.com/nextcloud/server) | skip BSD ftpd `total N` headers ([#63197](https://github.com/nextcloud/server/pull/63197)) |
+| [Papra](https://github.com/papra-hq/papra) | Docker HEALTHCHECK ([#1412](https://github.com/papra-hq/papra/pull/1412)) · docs typecheck ([#1391](https://github.com/papra-hq/papra/pull/1391)) · mobile command palette ([#1390](https://github.com/papra-hq/papra/pull/1390)) |
+| [Docusaurus](https://github.com/facebook/docusaurus) | Firefox sidebar descender clip ([#12300](https://github.com/facebook/docusaurus/pull/12300)) |
+| [tesseract.js](https://github.com/naptha/tesseract.js) | remove Open Collective postinstall ([#1068](https://github.com/naptha/tesseract.js/pull/1068)) |
+| [code-charity/youtube](https://github.com/code-charity/youtube) | persistent playback speed UI ([#4211](https://github.com/code-charity/youtube/pull/4211)) |
+
 ---
 
-**Stack**
+### Stack
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="36" alt="Cloudflare"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,python,kotlin,cloudflare,vercel,git,github,linux&perline=7" alt="skills" />
+  </a>
 </p>
 
 ---
 
-**Achievements**
+### Stats
 
-- WRO 2026 - Regional
-- IOAI - Regional (AI Olympiad)
-- Al-Khwarizmi CS Olympiad - Regional
-- Robocontest - City Level x5
-- IELTS 7.0
-- Five Million AI Developers Certificate holder
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xusnitdinov&show_icons=true&theme=transparent&hide_border=true&title_color=0d9488&icon_color=0ea5a0&text_color=94a3b8&ring_color=0d9488" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xusnitdinov&layout=compact&theme=transparent&hide_border=true&title_color=0d9488&text_color=94a3b8" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xusnitdinov&theme=transparent&hide_border=true&ring=0d9488&fire=0ea5a0&currStreakLabel=0d9488" alt="streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/xusnitdinov/xusnitdinov/main/assets/snake.svg" alt="snake" />
+</div>
+
+---
+
+### Wins
+
+| | |
+| :--- | :--- |
+| WRO 2026 | Regional |
+| IOAI | Regional (AI Olympiad) |
+| Al-Khwarizmi CS Olympiad | Regional |
+| Robocontest | City Level x5 |
+| IELTS | 7.0 |
+| Five Million AI Developers | Certificate |
+
+---
+
+<div align="center">
+
+**Building in public from Tashkent.** Always down to ship.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1200&color=64748B&center=true&vCenter=true&width=420&lines=open+to+collabs+%C2%B7+PRs+%C2%B7+weird+ideas)](https://github.com/xusnitdinov)
+
+</div>

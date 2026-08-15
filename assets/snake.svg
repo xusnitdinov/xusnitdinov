@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="120" viewBox="0 0 860 120" role="img" aria-label="contribution snake">
+  <defs>
+    <linearGradient id="snakeGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="120" rx="16" fill="#0b1220"/>
+  <!-- grid dots -->
+  <g fill="#1e293b">
+    <g id="row">
+      <circle cx="40" cy="30" r="5"/><circle cx="70" cy="30" r="5"/><circle cx="100" cy="30" r="5"/>
+      <circle cx="130" cy="30" r="5"/><circle cx="160" cy="30" r="5"/><circle cx="190" cy="30" r="5"/>
+      <circle cx="220" cy="30" r="5"/><circle cx="250" cy="30" r="5"/><circle cx="280" cy="30" r="5"/>
+      <circle cx="310" cy="30" r="5"/><circle cx="340" cy="30" r="5"/><circle cx="370" cy="30" r="5"/>
+      <circle cx="400" cy="30" r="5"/><circle cx="430" cy="30" r="5"/><circle cx="460" cy="30" r="5"/>
+      <circle cx="490" cy="30" r="5"/><circle cx="520" cy="30" r="5"/><circle cx="550" cy="30" r="5"/>
+      <circle cx="580" cy="30" r="5"/><circle cx="610" cy="30" r="5"/><circle cx="640" cy="30" r="5"/>
+      <circle cx="670" cy="30" r="5"/><circle cx="700" cy="30" r="5"/><circle cx="730" cy="30" r="5"/>
+      <circle cx="760" cy="30" r="5"/><circle cx="790" cy="30" r="5"/><circle cx="820" cy="30" r="5"/>
+    </g>
+    <use href="#row" y="30"/>
+    <use href="#row" y="60"/>
+  </g>
+  <!-- glowing trail -->
+  <g>
+    <circle r="7" fill="#0d9488">
+      <animateMotion dur="8s" repeatCount="indefinite" path="M40,30 H820 V60 H40 V90 H820"/>
+    </circle>
+    <circle r="6" fill="#14b8a6" opacity="0.85">
+      <animateMotion dur="8s" begin="0.12s" repeatCount="indefinite" path="M40,30 H820 V60 H40 V90 H820"/>
+    </circle>
+    <circle r="5" fill="#2dd4bf" opacity="0.7">
+      <animateMotion dur="8s" begin="0.24s" repeatCount="indefinite" path="M40,30 H820 V60 H40 V90 H820"/>
+    </circle>
+    <circle r="4" fill="#5eead4" opacity="0.55">
+      <animateMotion dur="8s" begin="0.36s" repeatCount="indefinite" path="M40,30 H820 V60 H40 V90 H820"/>
+    </circle>
+    <circle r="9" fill="url(#snakeGrad)">
+      <animateMotion dur="8s" begin="0.48s" repeatCount="indefinite" path="M40,30 H820 V60 H40 V90 H820"/>
+    </circle>
+  </g>
+  <text x="430" y="112" text-anchor="middle" fill="#64748b" font-family="ui-monospace, monospace" font-size="11">building in public · keep the streak alive</text>
+</svg>
