@@ -107,11 +107,9 @@ Free IELTS prep for Uzbek students - practice tests + AI writing feedback.
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/xusnitdinov/xusnitdinov/main/assets/snake.svg" alt="snake" />
-  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xusnitdinov/xusnitdinov/output/github-contribution-grid-snake-dark.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/xusnitdinov/xusnitdinov/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution snake" width="100%" src="https://raw.githubusercontent.com/xusnitdinov/xusnitdinov/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
