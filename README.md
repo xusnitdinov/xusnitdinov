@@ -1,14 +1,31 @@
 <div align="center">
 
-<!-- typing intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=0EA5A0&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=80&lines=Azizbek+Xusnitdinov;EdTech+builder+from+Tashkent;Shipping+tools+for+students)](https://xusnitdinov.pages.dev)
+# Azizbek Xusnitdinov
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-xusnitdinov.pages.dev-0d9488?style=for-the-badge&logo=cloudflare&logoColor=white)](https://xusnitdinov.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/)
-[![Email](https://img.shields.io/badge/Email-Say+hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xusnitdinov.azizbek@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=xusnitdinov&label=Profile+views&color=0d9488&style=for-the-badge)](https://github.com/xusnitdinov)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=0EA5A0&center=true&vCenter=true&width=620&height=40&lines=EdTech+builder+from+Tashkent;Shipping+tools+for+students;Open+source+%2B+solo+builds" alt="typing" />
 
-<br/>
+<p>
+  <a href="https://xusnitdinov.pages.dev">
+    <img src="https://img.shields.io/badge/Portfolio-xusnitdinov.pages.dev-0d9488?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:xusnitdinov.azizbek@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say+hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=xusnitdinov&label=Profile+views&color=0d9488&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<p>
+  <b>
+    <a href="https://xusnitdinov.pages.dev">Portfolio</a>
+    &nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/">LinkedIn</a>
+    &nbsp;|&nbsp;
+    <a href="mailto:xusnitdinov.azizbek@gmail.com">Email</a>
+  </b>
+</p>
 
 <img src="https://raw.githubusercontent.com/xusnitdinov/xusnitdinov/main/assets/wave.svg" width="100%" alt="wave"/>
 
@@ -129,7 +146,5 @@ Free IELTS prep for Uzbek students - practice tests + AI writing feedback.
 <div align="center">
 
 **Building in public from Tashkent.** Always down to ship.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1200&color=64748B&center=true&vCenter=true&width=420&lines=open+to+collabs+%C2%B7+PRs+%C2%B7+weird+ideas)](https://github.com/xusnitdinov)
 
 </div>
