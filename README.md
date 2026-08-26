@@ -7,7 +7,7 @@ EdTech builder from Tashkent
 [![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xusnitdinov.azizbek@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=xusnitdinov&label=views&color=0d9488&style=flat-square)](https://github.com/xusnitdinov)
 
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=0EA5A0&width=420&height=32&lines=EdTech+builder+from+Tashkent;Shipping+tools+for+students;Open+source+%2B+solo+builds)
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=0EA5A0&width=420&height=32&lines=EdTech+builder+from+Tashkent;Shipping+tools+for+students;Open+source+%2B+solo+builds;AI+ Dev+based+in+Tashkent;Coder)
 
 I ship free EdTech for Uzbek students and sharp little tools for the web. Solo builds, real users, open source when it helps.
 
