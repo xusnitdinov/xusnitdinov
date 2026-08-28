@@ -19,10 +19,6 @@ I ship free EdTech for Uzbek students and sharp little tools for the web. Solo b
 Agent Skill that makes AI sound like it actually speaks Uzbek (Latin).  
 [Install](https://github.com/xusnitdinov/uzbek-humanizer#install-in-10-seconds)
 
-**[Avazov IELTS](https://avazovielts.uz)**  
-Free IELTS prep for Uzbek students - practice tests + AI writing feedback.  
-[Site](https://avazovielts.uz) / [code](https://github.com/xusnitdinov/avazovielts)
-
 ---
 
 ### Toolbox
