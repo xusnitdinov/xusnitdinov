@@ -62,7 +62,10 @@ Agent Skill that makes AI sound like it actually speaks Uzbek (Latin).
 
 ![streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=xusnitdinov&theme=transparent&hide_border=true&ring=0d9488&fire=0ea5a0&currStreakLabel=0d9488)
 
-![snake](https://raw.githubusercontent.com/xusnitdinov/xusnitdinov/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xusnitdinov/xusnitdinov/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/xusnitdinov/xusnitdinov/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
 
