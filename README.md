@@ -1,9 +1,9 @@
 # Azizbek Xusnitdinov
 
-EdTech builder from Tashkent
+Xusnitdinov Azizbek · EdTech builder from Tashkent
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-xusnitdinov.pages.dev-0d9488?style=flat-square&logo=cloudflare&logoColor=white)](https://xusnitdinov.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbek-xusnitdinov-b1a2273a2/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-xusnitdinov.tech-0d9488?style=flat-square&logo=cloudflare&logoColor=white)](https://xusnitdinov.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xusnitdinov)
 [![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xusnitdinov.azizbek@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=xusnitdinov&label=views&color=0d9488&style=flat-square)](https://github.com/xusnitdinov)
 
